@@ -1,0 +1,3 @@
+POSTGRES_PASSWORD=useruser
+POSTGRES_USER=Auror
+POSTGRES_DB=bookshop_db
